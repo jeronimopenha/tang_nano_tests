@@ -1,7 +1,7 @@
 {
  "Files" : [
   {
-   "Path" : "/home/jeronimo/Documents/tang_projects/fpga_project/src/top.v",
+   "Path" : "/home/jeronimo/Documents/tang_projects/fpga_project/src/top_rxtx.v",
    "Type" : "verilog"
   }
  ],

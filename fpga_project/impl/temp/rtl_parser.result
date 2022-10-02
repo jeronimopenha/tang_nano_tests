@@ -1,18 +1,26 @@
 [
  {
-  "InstFile" : "/home/jeronimo/Documents/tang_projects/fpga_project/src/top.v",
+  "InstFile" : "/home/jeronimo/Documents/tang_projects/fpga_project/src/top_rxtx.v",
   "InstLine" : 1,
   "InstName" : "usb_top",
-  "ModuleFile" : "/home/jeronimo/Documents/tang_projects/fpga_project/src/top.v",
+  "ModuleFile" : "/home/jeronimo/Documents/tang_projects/fpga_project/src/top_rxtx.v",
   "ModuleLine" : 1,
   "ModuleName" : "usb_top",
   "SubInsts" : [
    {
-    "InstFile" : "/home/jeronimo/Documents/tang_projects/fpga_project/src/top.v",
-    "InstLine" : 82,
+    "InstFile" : "/home/jeronimo/Documents/tang_projects/fpga_project/src/top_rxtx.v",
+    "InstLine" : 27,
+    "InstName" : "u_uart_rx",
+    "ModuleFile" : "/home/jeronimo/Documents/tang_projects/fpga_project/src/top_rxtx.v",
+    "ModuleLine" : 135,
+    "ModuleName" : "uart_rx"
+   },
+   {
+    "InstFile" : "/home/jeronimo/Documents/tang_projects/fpga_project/src/top_rxtx.v",
+    "InstLine" : 38,
     "InstName" : "u_uart_tx",
-    "ModuleFile" : "/home/jeronimo/Documents/tang_projects/fpga_project/src/top.v",
-    "ModuleLine" : 122,
+    "ModuleFile" : "/home/jeronimo/Documents/tang_projects/fpga_project/src/top_rxtx.v",
+    "ModuleLine" : 49,
     "ModuleName" : "uart_tx"
    }
   ]

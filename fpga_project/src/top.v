@@ -5,6 +5,7 @@ module usb_top (
     output [5:0] led,
     output uart_tx
     );
+    
     assign uart_tx = uart_rx;
     //assign uart_tx=uart_rx;
 

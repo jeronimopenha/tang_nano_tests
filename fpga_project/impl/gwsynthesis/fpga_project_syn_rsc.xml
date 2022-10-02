@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Module name="usb_top" Register="35" Alu="28" Lut="26"/>
+<Module name="usb_top" Lut="3">
+ <SubModule name="u_uart_rx" Register="22" Alu="8" Lut="35"/>
+ <SubModule name="u_uart_tx" Register="19" Alu="8" Lut="31"/>
+</Module>
