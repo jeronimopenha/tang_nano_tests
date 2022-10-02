@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "/home/jeronimo/Documents/tang_projects/fpga_project/src/top.v",
+  "InstLine" : 1,
+  "InstName" : "usb_top",
+  "ModuleFile" : "/home/jeronimo/Documents/tang_projects/fpga_project/src/top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "usb_top",
+  "SubInsts" : [
+   {
+    "InstFile" : "/home/jeronimo/Documents/tang_projects/fpga_project/src/top.v",
+    "InstLine" : 82,
+    "InstName" : "u_uart_tx",
+    "ModuleFile" : "/home/jeronimo/Documents/tang_projects/fpga_project/src/top.v",
+    "ModuleLine" : 122,
+    "ModuleName" : "uart_tx"
+   }
+  ]
+ }
+]
